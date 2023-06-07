@@ -6,4 +6,4 @@ for c in range(ord('z'), ord('a') - 1, -1):
     if i == 0:
         i = 32
     else:
-        0
+        i = 0
