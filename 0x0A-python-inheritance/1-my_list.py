@@ -3,7 +3,7 @@
 
 
 class Mylist(list):
-    """ implements sorted method for Mylist """
+    """ implements sorted printing for built-in list class. """
 
     def print_sorted(self):
         """ prints a list in sorted ascending order """
