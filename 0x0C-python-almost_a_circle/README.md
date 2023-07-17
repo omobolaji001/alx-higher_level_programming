@@ -1,7 +1,6 @@
 ### Base
 
-Represents the "base" class for all other classes in the project. Includes:
-
+Represents the "base" class for all other classes in the project. Includes
 Private class attribute __nb_objects = 0.
 
 Public instance attribute id.
