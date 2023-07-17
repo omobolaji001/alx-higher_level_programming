@@ -1,4 +1,4 @@
-Base
+### Base
 
 Represents the "base" class for all other classes in the project. Includes:
 
@@ -66,7 +66,7 @@ The parameter list_squares is expected to be a list of Square objects to print.
 
 
 
-Rectangle
+### Rectangle
 
 Represents a rectangle. Inherits from Base with:
 
@@ -113,7 +113,7 @@ Public method def to_dictionary(self): that returns the dictionary representatio
 
 
 
-Square
+### Square
 
 Represents a square. Inherits from Rectangle with:
 
